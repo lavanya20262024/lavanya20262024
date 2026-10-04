@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**lavanya20262024/lavanya20262024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi👋 I'm Lavanya 
+first year BTech ECE student 
+learning python 
+Building beginner friendly mini projects
+#skills
+python 
+c programming 
+#projects
+1.smart_bill_calculator
+2.mini_ atm
+more projects coming soon 
